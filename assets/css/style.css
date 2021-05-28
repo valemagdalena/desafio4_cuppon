@@ -1,0 +1,28 @@
+.navbar {
+    background-color: #28A745;
+}
+
+body {
+    color: #212529;
+    font-family: 'Roboto', sans-serif;
+}
+
+.col {
+    padding-bottom: 2rem;
+}
+
+#cuerpo {
+    margin: 1.5rem;
+}
+
+.formulario {
+    background-color: #28A745;
+}
+
+footer {
+    color: #707070;
+}
+
+i {
+    color: #707070;
+}
